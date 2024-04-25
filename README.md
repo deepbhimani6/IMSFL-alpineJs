@@ -1,1 +1,3 @@
-# IMSFL-alpineJs
+# After Clone
+
+Use commend "npm i"
